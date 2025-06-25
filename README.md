@@ -1,3 +1,4 @@
+<!-- Profile Header with Typing SVG -->
 <h1 align="center">Hey there 👋, I'm <span style="color:#915EFF;">Bhavish Ankam</span>!</h1>
 
 <p align="center">
@@ -9,32 +10,41 @@
 ### 🚀 About Me
 
 - 🎓 Developer Lead at Codeoholics — building with purpose  
-- 🧠 Currently exploring advanced **Python**, **React**, **Framer Motion**, and **SQL**
-- 🛠️ Working on a **Mood + Productivity CLI Tracker**, and an **Animated Club Website**
-- ⚙️ I love crafting interactive experiences with smooth UI/UX
-- 🎯 Passionate about **clean code**, **performance**, and solving real problems
-- 💬 Ask me about anything tech, I'm always up for a good dev chat!
+- 🧠 Exploring advanced **Python**, **React**, **Framer Motion**, and **SQL**
+- 🛠️ Currently working on:
+  - 🧘‍♂️ **Mood + Productivity CLI Tracker**
+  - ⚡ **Animated Codeoholics Club Website**
+- ✨ I love crafting **smooth UI/UX** and solving **real-world problems**
+- 💬 Always up for deep dev talk — drop a DM or collab idea anytime!
 
 ---
 
-### 🧰 Tech Stack
+### ⚒️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,python,html,css,c,cpp,mysql,figma,git" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,python,html,css,c,cpp,mysql,figma,git,tailwind,linux,flask" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2005bhavish&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2005bhavish&layout=compact&theme=dracula&hide_border=false&langs_count=6" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=2005bhavish&show_icons=true&count_private=true&theme=radical&hide_border=false&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2005bhavish&layout=compact&theme=radical&hide_border=false&langs_count=6" height="170" />
 </div>
 
 ---
 
-### 🔗 Connect with Me
+### 🧩 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=2005bhavish&theme=dracula&column=6&margin-w=10&margin-h=15" />
+</p>
+
+---
+
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="mailto:ankambhavish05@gmail.com">
@@ -53,17 +63,16 @@
 
 ---
 
-### 🧠 Fun Dev Animation Vibe
+### 🎥 Aesthetic Dev Vibe
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="440" />
 </p>
 
 ---
 
+
 ### 💬 Quote That Drives Me
 
 > “The best way to predict the future is to invent it.” — *Alan Kay*
-
----
 
