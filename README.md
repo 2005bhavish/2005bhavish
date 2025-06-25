@@ -13,7 +13,6 @@
 - 🧠 Exploring advanced **Python**, **React**, **Framer Motion**, and **SQL**
 - 🛠️ Currently working on:
   - 🧘‍♂️ **Mood + Productivity CLI Tracker**
-  - ⚡ **Animated Codeoholics Club Website**
 - ✨ I love crafting **smooth UI/UX** and solving **real-world problems**
 - 💬 Always up for deep dev talk — drop a DM or collab idea anytime!
 
@@ -22,7 +21,7 @@
 ### ⚒️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,python,html,css,c,cpp,mysql,figma,git,tailwind,linux,flask" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,python,html,css,c,cpp,mysql,git,tailwind,flask" />
 </p>
 
 ---
