@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm <span style="color:#915EFF;">Bhavish Ankam</span>!</h1>
 
-<!--
-**2005bhavish/2005bhavish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=915EFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Passionate+Full-Stack+Developer+from+India;React+%7C+Python+%7C+SQL+%7C+Animations+Enthusiast;Always+building+something+awesome!+💡" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 Developer Lead at Codeoholics — building with purpose  
+- 🧠 Currently exploring advanced **Python**, **React**, **Framer Motion**, and **SQL**
+- 🛠️ Working on a **Mood + Productivity CLI Tracker**, and an **Animated Club Website**
+- ⚙️ I love crafting interactive experiences with smooth UI/UX
+- 🎯 Passionate about **clean code**, **performance**, and solving real problems
+- 💬 Ask me about anything tech, I'm always up for a good dev chat!
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,python,html,css,c,cpp,mysql,figma,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=2005bhavish&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2005bhavish&layout=compact&theme=dracula&hide_border=false&langs_count=6" height="150" />
+</div>
+
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="mailto:ankambhavish05@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/yourhandle">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/yourserver">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@yourchannel">
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🧠 Fun Dev Animation Vibe
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" />
+</p>
+
+---
+
+### 💬 Quote That Drives Me
+
+> “The best way to predict the future is to invent it.” — *Alan Kay*
+
+---
+
