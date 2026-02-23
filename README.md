@@ -7,11 +7,22 @@
 
 ---
 
+## 🌍 Professional Experience
+
+- 💼 **Content Moderator @ Google**
+  - Ensured platform safety and policy compliance
+  - Reviewed and analyzed high-volume content with precision
+  - Worked in a fast-paced, quality-driven environment
+  - Strengthened analytical thinking & decision-making skills
+
+---
+
 ### 🚀 About Me
 
 - 🎓 Developer Lead at Codeoholics — building with purpose  
+- 🌍 Former **Google Content Moderator**
 - 🧠 Exploring advanced **Python**, **React**, **Framer Motion**, and **SQL**
-- 🛠️ Currently working on:
+- 🛠️ Currently building:
   - 🧘‍♂️ **Mood + Productivity CLI Tracker**
 - ✨ I love crafting **smooth UI/UX** and solving **real-world problems**
 - 💬 Always up for deep dev talk — drop a DM or collab idea anytime!
